@@ -10,8 +10,7 @@ Run dxlibrarian.py in the current directory.
   - Easy patch name editing via main window.
   - Lists folders and files one level down in the running directory (non-recursive)
 
-![Screenshot of the DX Librarian running on linux Mint](linuxMint-screenshot.png "Linux")
-![Screenshot of the DX Librarian running on Microsoft Windows 10](Win10-screenshot.png "Windows")
+![Screenshots of the DX Librarian running on Windows and Linux](dxlibrarian-screenshots.jpg "Windows + Linux")
 
 ** This project is not likely to be maintained unless Yamaha release a fimrware update for the Reface DX! **
 
