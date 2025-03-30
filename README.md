@@ -1,8 +1,8 @@
 # DX Librarian
-- Single-window Linux-based Python+TTK Yamaha Reface DX Synthesizer Patch Librarian
+- Single-window Python+TTK Yamaha Reface DX Synthesizer Patch Librarian
 - Just run dxlibrarian.py in the current directory, access the midi device and 
 - Uses the great Mido library (https://github.com/mido/mido) for all of the communication via MIDI.
-- Primarily designed for linux
+- Primarily designed for linux. Should work on other platforms with a few tweaks.
 
 *This project is not likely to be maintained unless Yamaha release firmware updates for the Reface DX*
 
